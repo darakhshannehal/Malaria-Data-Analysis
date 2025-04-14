@@ -4,3 +4,6 @@
 
 #### [Dashboard](https://darakhshannehal.quarto.pub/malaria/#global)
 
+
+![](Dashboard.png)
+
